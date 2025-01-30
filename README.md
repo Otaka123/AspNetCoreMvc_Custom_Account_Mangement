@@ -106,22 +106,22 @@ The project is organized into the following key folders:
 Here are some screenshots of the system in action:
 
 ### 🔹 Login Page:
-(ScreenShots/Login_page.png)
+![Login Page](ScreenShots/Login_page.png)
 
 ### 🔹 Register Page:
-(ScreenShots/Register_page.png)
+![Register Page](ScreenShots/Register_page.png)
 
 ### 🔹 Profile Management:
-(ScreenShots/Edit_profile.png)
+![Profile Management](ScreenShots/Edit_profile.png)
 
 ### 🔹 Role Management:
-(ScreenShots/Roles_mangemt.png)
+![Role Management](ScreenShots/Roles_mangemt.png)
 
 ### 🔹 Redirect Page:
-(ScreenShots/Redirect_page.png)
+![Redirect Page](ScreenShots/Redirect_page.png)
 
 ### 🔹 Home Page:
-(ScreenShots/Screenshot%202025-01-30%20232833.png)
+![Home Page](ScreenShots/Screenshot%202025-01-30%20232833.png)
 ---
 
 ## 🤝 Contributing
