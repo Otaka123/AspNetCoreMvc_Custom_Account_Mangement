@@ -145,7 +145,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 For any questions or feedback, feel free to reach out:
 
-- 📧 \*\*Email: \*\***[marwanosamaebrahim@gamil.com](mailto\:marwanosamaebrahim@gamil.com)**
+- 📧 \*\*Email: \*\***[marwanosamaebrahim@gmail.com](mailto\:marwanosamaebrahim@gamil.com)**
 - 🐙 **GitHub:** [Otaka123](https://github.com/Otaka123)
 
 Enjoy using the **Custom Identity Account Management System**! 🚀
