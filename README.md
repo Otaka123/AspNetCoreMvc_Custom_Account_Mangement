@@ -55,7 +55,7 @@ The system is designed with best practices in mind, adhering to **SOLID principl
 #### 1️⃣ Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Otaka123/AspNetCoreMvc_Custom_Account_Mangement
 ```
 
 #### 2️⃣ Open the Project:
